@@ -37,7 +37,7 @@ const SidebarContent = () => {
     
         >
         <Flex h='20' alignItems='center' mx='8' justifyContent="space-between" >
-            <Text fontsize="2xl" fontFamily="monospace" FontWeight="bold" >
+            <Text fontSize="2xl" fontFamily="monospace" fontWeight="bold" >
                 Logo
             </Text>
             <CloseButton display={{base:'flex', md:'none'}}/>
